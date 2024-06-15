@@ -1,7 +1,7 @@
 # Salary Prediction Based On Year Experience
 
 A simple **linear regression model** is used to predict the salary based on the years of experience.
-In this project, a salary dataset from kaggle is used. In the project, year experience is an independent variable and salary is dependent variable. Linear Regression model was built first, using the dataset, pandas, numpy, skilearn, and matplotlib libraries. 
+In this project, a salary dataset from **Kaggle** is used. In the project, year experience is an independent variable and salary is dependent variable. Linear Regression model was built first, using the dataset, pandas, numpy, skilearn, and matplotlib libraries. 
 Then, the user can enter their year of experience and the model will predict how much salary they can expect. 
 
 ### Key Takeaways
