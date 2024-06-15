@@ -75,4 +75,3 @@ predicted_salary = model.predict(input_df)
 print(f"Your Predicted Salary is around ${predicted_salary[0]:.2f}. However, it's subject to change!") #return the index 0 because predicted_salary is the numpy array
 
 
-
